@@ -1,2 +1,25 @@
 
-/* Your CSS Code here. */
+body {
+	display : flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	gap : 2px;
+}
+
+h1 {
+	margin : 0px;
+}
+div {
+	
+	width : 100px;
+	height : 100px;
+	background-color : green;
+}
+
+.box2 {
+	background-color : red;
+}
+
+.box3 {
+	background-color : blue;
+}
